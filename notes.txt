@@ -3,4 +3,4 @@ Initial Commit
 
 This program demonstrates reading, writing, updating, and deleting within a hibernate environment. The hibernate and mysql-connecter .jar files were used.
 
-I did not have the time to install a mysql client on my computer 
+I did not have the time to install a mysql client on my computer, but the intended output can be found in the hibernate
