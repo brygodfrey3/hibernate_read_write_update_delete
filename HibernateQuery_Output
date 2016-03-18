@@ -1,0 +1,13 @@
+Hibernate: insert into hibernateschema.student (standard, name) values (?, ?)
+Inserted Student details
+Selected Student details
+Student Name: Raj
+Student Standard: 10th Standard
+Updating Student details
+Hibernate: update hibernateschema.student set standard=? where name=?
+Student details after updating
+Student Name: Raj
+Student Standard: Plus one
+Deleting Student records
+Hibernate: delete from hibernateschema.student where name=?
+Student Deleted successfully
